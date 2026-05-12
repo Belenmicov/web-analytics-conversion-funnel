@@ -65,7 +65,9 @@ Five clean views created on top of the imported tables, adding drop-off rates us
 ## Power BI Dashboard Structure
  
 KPI area → Total Users · Total Purchasers · Overall Conversion Rate · Total Revenue
+
 Core Findings → Conversion Funnel · Traffic Sources by Channel · Device Breakdown
+
 Supporting Insights → Top 20 Products by Revenue · Monthly Users & Revenue Trend
  
 ---
