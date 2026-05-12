@@ -1,6 +1,3 @@
-# web-analytics-conversion-funnel
-Conversion funnel analysis using real Google Analytics 4 data — BigQuery, MySQL and Power BI
-
 # Web Analytics & Conversion Funnel Analysis
 ## Overview
 Analysis of real e-commerce data from the Google Merchandise Store using BigQuery, MySQL and Power BI.
