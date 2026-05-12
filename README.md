@@ -6,7 +6,7 @@ The project investigates a 1.6% overall conversion rate — only 4,419 out of 26
 ---
 
 ## Dashboard Preview
-![Dashboard](google_analytics.dashboard.png) -->
+![Dashboard](google_analytics_dashboard.png) -->
 
 ---
  
