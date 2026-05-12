@@ -2,7 +2,8 @@
 ## Overview
 Analysis of real e-commerce data from the Google Merchandise Store using BigQuery, MySQL and Power BI.
 The project investigates a 1.6% overall conversion rate — only 4,419 out of 267,116 visitors completed a purchase — and identifies where customers drop off across the purchase funnel, which marketing channels drive the highest quality traffic, and which products generate the most revenue.
- 
+
+![Dashboard](google_analytics_dashboard.png)
 ---
  
 ## Author
